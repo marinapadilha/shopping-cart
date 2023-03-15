@@ -2,6 +2,7 @@
   "name": "sd-0x-project-shopping-cart",
   "version": "1.0.0",
   "main": "script.js",
+  "homepage": "https://marinapadilha.github.io/shopping-cart/",
   "scripts": {
     "start": "vite",
     "dev": "vite --open",
@@ -10,7 +11,10 @@
     "cy": "cypress run",
     "cy:open": "cypress open --e2e --browser chrome",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js",
-    "lint:styles": "stylelint *.css --config .stylelintrc.json --ignore-disables --allow-empty-input"
+    "lint:styles": "stylelint *.css --config .stylelintrc.json --ignore-disables --allow-empty-input",
+    "build": "vite build",
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d dist"
   },
   "jest": {
     "coverageReporters": [
