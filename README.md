@@ -1,6 +1,4 @@
 # Shopping Cart
-## Shopping Cart Project using mercadolibre API.
-
 ## About the Project
 
 Shopping Cart is a Front-End Application where a fully functional shopping cart was implemented, using the products from the MercadoLibre API.
@@ -11,10 +9,10 @@ In addition to my knowledge of asynchronous functions, API consumption and unit 
 
 ## Check the Project:
 
-### You can see how it works in:
-
-Watch the video:(https://youtu.be/3eKZecsWBSk)
-
 ### And it looks like this:
 
 ![shopping cart front end - how it looks](src/imgs/shoppingcart.png)
+
+### You can see how it works in:
+
+![Watch the video:](https://youtu.be/3eKZecsWBSk)
