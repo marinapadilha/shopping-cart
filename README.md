@@ -17,4 +17,4 @@ Watch the video: (https://youtu.be/3eKZecsWBSk)
 
 ### And it looks like this:
 
-![shopping cart front end - how it looks] (https://raw.githubusercontent.com/marinapadilha/shopping-cart/Deploy/src/imgs/shoppingcart.png)
+![shopping cart front end - how it looks] (src/imgs/shoppingcart.png)
