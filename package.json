@@ -14,7 +14,7 @@
     "lint:styles": "stylelint *.css --config .stylelintrc.json --ignore-disables --allow-empty-input",
     "build": "vite build",
       "predeploy": "npm run build",
-      "deploy": "Deploy -d dist"
+      "deploy": "gh-pages -d dist"
   },
   "jest": {
     "coverageReporters": [
