@@ -1,7 +1,7 @@
 # Shopping Cart
-Shopping Cart Project using mercadolibre API.
+## Shopping Cart Project using mercadolibre API.
 
-# About the Project
+## About the Project
 
 Shopping Cart is a Front-End Application where a fully functional shopping cart was implemented, using the products from the MercadoLibre API.
 
@@ -9,12 +9,12 @@ In this project, I used HTML, JavaScript and CSS technologies.
 I used the webpacks: Vite, Jest and Cypress.
 In addition to my knowledge of asynchronous functions, API consumption and unit testing.
 
-# Check the Project:
+## Check the Project:
 
-## You can see how it works in:
+### You can see how it works in:
 
-[![Watch the video]] (https://youtu.be/3eKZecsWBSk)
+Watch the video: (https://youtu.be/3eKZecsWBSk)
 
-## And it looks like this:
+### And it looks like this:
 
-![Shopping Cart Project Front-End] (https://raw.githubusercontent.com/marinapadilha/shopping-cart/main/src/imgs/shoppingcart.png)
+Shopping Cart Project Front-End: (https://raw.githubusercontent.com/marinapadilha/shopping-cart/Deploy/src/imgs/shoppingcart.png)
