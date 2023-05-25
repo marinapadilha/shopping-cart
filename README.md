@@ -1,4 +1,9 @@
 # Shopping Cart
+
+Developed by Marina Padilha, while studying at @Trybe.
+You can find me in: https://www.linkedin.com/in/marinafpadilha/
+Or e-mail me: marinapadilha.dev@gmail.com
+
 ## About the Project
 
 Shopping Cart is a Front-End Application where a fully functional shopping cart was implemented, using the products from the MercadoLibre API.
