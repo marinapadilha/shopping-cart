@@ -13,8 +13,8 @@ In addition to my knowledge of asynchronous functions, API consumption and unit 
 
 ### You can see how it works in:
 
-Watch the video: (https://youtu.be/3eKZecsWBSk)
+Watch the video:(https://youtu.be/3eKZecsWBSk)
 
 ### And it looks like this:
 
-![shopping cart front end - how it looks] (src/imgs/shoppingcart.png)
+![shopping cart front end - how it looks](src/imgs/shoppingcart.png)
